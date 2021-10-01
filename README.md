@@ -19,10 +19,7 @@ to quit the level press "q", if you have finished the level before the next leve
 "#" are walls.
 "-" is the start position.
 "+" is the end position.
-"@"(1) or "@@"(2) or "@"(3) is the log.
-
-                      @
-                      
+"@"(1) or "@@"(2) or (Number two just vertical)(3) is the log.
 As shown above the log can have three different states.
 (1) is when it is standing up, it will fall down no matter which way you move it.
 (2) is when it's laying down horisontal, if yo move it up or down it will roll and stay in the same state, if you move it sideways it will flipp up to state(1).
